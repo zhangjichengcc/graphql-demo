@@ -1,3 +1,11 @@
+/*
+ * @Author: your name
+ * @Date: 2021-07-09 17:49:09
+ * @LastEditTime: 2021-07-15 20:33:51
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \graphql-demo\hello.js
+ */
 var express = require('express');
 var graphqlHTTP = require('express-graphql');
 var { buildSchema } = require('graphql');
